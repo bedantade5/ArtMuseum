@@ -1,1 +1,1 @@
-# isteprojects
+# A small project I built to learn the basics of HTML and CSS. It features three famous paintings with descriptions, a simple navigation menu, and a clean dark-themed design. A fun way to practice structuring and styling web pages.
